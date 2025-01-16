@@ -1,5 +1,8 @@
-<h1 align="center">  Bot de WhatsApp </h1>
-<p align="center">  
+ 
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=s3njuofc&color=brightgreen" />
+<p/>
+  
   
 ***
   
