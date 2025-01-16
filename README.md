@@ -1,7 +1,6 @@
  
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=s3njuofc&color=brightgreen" />
-<p/>
+#### 🍃Vistas del perfil de S3nju ofc 🍃
+![Visitor Count](https://profile-counter.glitch.me/S3njuofc/count.svg)
   
   
 ***
